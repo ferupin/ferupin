@@ -5,7 +5,7 @@
 
 <div>
   <p>
-Hey, I’m Felipe! Software Developer && Enthusiast. Always building scalable and efficient web applications. Constantly exploring new technologies to expand my knowledge, learning new concepts, and refining my skills to stay ahead. I’m also looking to make an impact in the tech community—whether through open-source contributions, collaboration, or sharing knowledge. —<i>"Always Strive and Prosper (A$AP)."</i>
+Hey, I’m Felipe! Software Developer && Enthusiast. Always building scalable and efficient web applications. Constantly exploring new technologies to expand my knowledge, learning new concepts, and refining my skills to stay ahead. I’m also looking to make an impact in the tech community—whether through open-source contributions, collaboration, or sharing knowledge. —<i>"Always Strive and Prosper" (A$AP).</i>
   </p>
 </div>
 
