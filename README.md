@@ -16,9 +16,6 @@ Hey, I’m Felipe! Software Developer && Enthusiast. Always building scalable an
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,php,docker,html,css,mongodb,supabase,tailwind,nextjs,git,figma)](https://skillicons.dev)
-
-[![Static Badge](https://img.shields.io/badge/linkedin-700000)](https://www.linkedin.com/in/felipedmats/)
-[![Static Badge](https://img.shields.io/badge/instagram-700000)](https://www.instagram.com/muffensu/)
 </div>
 
 
